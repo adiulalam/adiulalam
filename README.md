@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiulalam" alt="adiulalam" /></a> </p>
 
-- 🔭 I’m currently working on [Ideas Project Similar to Reddit](https://github.com/adiulalam/ideas-website-v2)
+- 🔭 I’m currently working on [NotePal Backend](https://github.com/adiulalam/notepal-backend)
 
-- 🌱 I’m currently learning **React Native and TypeScript**
+- 🌱 I’m currently learning **React With Electron**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adiulalam](https://github.com/adiulalam)
 
